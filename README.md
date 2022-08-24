@@ -4,6 +4,7 @@ Theoric Computer - Final project of Digital Systems
 ULA (UNIDADE DE LÓGICA E ARITMÉTICA)
 Componentes:
 ● Registrador com carga de 8 bits (AC);
+
 ● Registrador com carga de 2 bits (FLAGS);
 ● Multiplexador 2x8 bits;
 ● ULA(ALU) - Multiplexador 5x8 bits.
