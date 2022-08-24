@@ -1,0 +1,106 @@
+v 4
+file . "ula.vhdl" "7f46c9e20cc2e865df4c59d4561bf55bee5572c0" "20220727113153.292":
+  entity ula at 1( 0) + 0 on 3263;
+  architecture archula of ula at 18( 282) + 0 on 3264;
+file . "uc.vhdl" "2a6244fa46308fe50b3a7650f38858b5cccfb613" "20220727113153.291":
+  entity uc at 1( 0) + 0 on 3261;
+  architecture archuc of uc at 13( 264) + 0 on 3262;
+file . "tb_nearder.vhdl" "1d2fa1930f1fead21c8e26aa733afcd944237e9c" "20220727113153.290":
+  entity tb_neander at 1( 0) + 0 on 3259;
+  architecture tbneander of tb_neander at 7( 78) + 0 on 3260;
+file . "tb_as_ram.vhdl" "bfefe731229ad8ce9415f071d736bf321b0ab039" "20220727113153.289":
+  entity tb_as_ram at 1( 0) + 0 on 3257;
+  architecture tb_behavior of tb_as_ram at 9( 126) + 0 on 3258;
+file . "sta.vhdl" "37651d343f07a04a618cfac3b88368308ba6e23d" "20220727113153.289":
+  entity sta at 1( 0) + 0 on 3255;
+  architecture archsta of sta at 11( 175) + 2 on 3256;
+file . "regCarga8bit.vhdl" "03d4293c3af3dad3ff5d6203f7616a5ac613ff52" "20220727113153.288":
+  entity regcarga8bit at 1( 0) + 0 on 3253;
+  architecture archrem of regcarga8bit at 13( 278) + 3 on 3254;
+file . "regCarga1bit.vhdl" "bc0cda6a5878fecd25927ad9bec1c0619eb51d36" "20220727113153.287":
+  entity regcarga1bit at 1( 0) + 0 on 3251;
+  architecture rtl of regcarga1bit at 16( 293) + 0 on 3252;
+file . "pcrip.vhdl" "10e641ac64caee2d11f3327c5ca7430c7b11ccb3" "20220727113153.287":
+  entity pc at 1( 0) + 0 on 3249;
+  architecture pcrip of pc at 14( 241) + 2 on 3250;
+file . "or.vhdl" "62cb30de57ee02483929a83df31a845be963c340" "20220727113153.286":
+  entity eor at 1( 0) + 0 on 3247;
+  architecture archor of eor at 11( 174) + 0 on 3248;
+file . "not.vhdl" "9bccae7982ee2951440242e55b025dff9bf914cf" "20220727113153.285":
+  entity anot at 1( 0) + 0 on 3245;
+  architecture archnot of anot at 11( 176) + 0 on 3246;
+file . "nop.vhdl" "0cca61fd8bed25f11737b339edf4035f4c153595" "20220727113153.285":
+  entity nop at 1( 0) + 0 on 3243;
+  architecture archnop of nop at 11( 175) + 0 on 3244;
+file . "neander.vhdl" "d2637a4e7b523917b70aad31e5425820c8435846" "20220727113153.284":
+  entity neander at 1( 0) + 0 on 3241;
+  architecture archneander of neander at 11( 161) + 2 on 3242;
+file . "mux5x8ULA.vhdl" "f25dc77530836d9d84369512623d39fee13889a5" "20220727113153.283":
+  entity mux5x8 at 1( 0) + 0 on 3239;
+  architecture rtl of mux5x8 at 17( 415) + 0 on 3240;
+file . "mux2x8.vhdl" "f903e660c8a6aa7e36a009d7439b39969ffd5447" "20220727113153.283":
+  entity mux2x8 at 1( 0) + 0 on 3237;
+  architecture comuta of mux2x8 at 13( 217) + 3 on 3238;
+file . "mux2x1.vhdl" "b5246d375ba266d2f12ecccd57362b736dd0b966" "20220727113153.282":
+  entity mux2x1 at 1( 0) + 0 on 3235;
+  architecture rtl of mux2x1 at 13( 203) + 0 on 3236;
+file . "mux11x11.vhdl" "6cb7f344725bde4f91e32487b1c8e57566c71f5c" "20220727113153.282":
+  entity mux11x11 at 1( 0) + 0 on 3233;
+  architecture archmux11 of mux11x11 at 13( 279) + 3 on 3234;
+file . "modula.vhdl" "d3ff1a5e361b72d2dbc12871f74038b6a6f5490b" "20220727113153.281":
+  entity modula at 1( 0) + 0 on 3231;
+  architecture archmodula of modula at 21( 345) + 0 on 3232;
+file . "modmem.vhdl" "999c84839ffe747469c3e07da4cb70f0ee1bded9" "20220727113153.280":
+  entity modmem at 1( 0) + 0 on 3229;
+  architecture archmodmem of modmem at 18( 387) + 4 on 3230;
+file . "modcontrole.vhdl" "36c1227604905e9e59927c129960d136ffa0509f" "20220727113153.279":
+  entity modcontrol at 1( 0) + 0 on 3227;
+  architecture archmodcontrol of modcontrol at 17( 404) + 4 on 3228;
+file . "lda.vhdl" "e0d45884dad73211da912fd07bf6888475d761cb" "20220727113153.279":
+  entity lda at 1( 0) + 0 on 3225;
+  architecture archlda of lda at 11( 175) + 2 on 3226;
+file . "jz.vhdl" "14a1e00bf3e1fa44c558aeeeb2e693e67b7e8b23" "20220725012106.404":
+  entity jz at 1( 0) + 0 on 1999;
+  architecture archjz of jz at 12( 215) + 0 on 2000;
+file . "jn.vhdl" "290d94abca21f2cf0966055d92f1d9574e268dc0" "20220725012106.399":
+  entity jn at 1( 0) + 0 on 1997;
+  architecture archjn of jn at 12( 215) + 0 on 1998;
+file . "jmp.vhdl" "96a8bea69a827dd88da04d1db8f9017b6fe951f4" "20220727113153.277":
+  entity jmp at 1( 0) + 0 on 3221;
+  architecture archjmp of jmp at 11( 175) + 0 on 3222;
+file . "hlt.vhdl" "f2fc7d95f0ff5cc474fa386ba255cef1c7688aaa" "20220727113153.277":
+  entity hlt at 1( 0) + 0 on 3219;
+  architecture archnop of hlt at 11( 175) + 0 on 3220;
+file . "fulladdsub.vhdl" "d50dfe0ef775de2a2f68d22113e00a10dc556b5c" "20220727113153.276":
+  entity fulladd at 1( 0) + 0 on 3215;
+  architecture archfull of fulladd at 14( 204) + 0 on 3216;
+  entity fulladd8 at 22( 380) + 0 on 3217;
+  architecture archfull8 of fulladd8 at 35( 726) + 0 on 3218;
+file . "flag.vhdl" "78e062a62ec2112a00389ff4594a51f980d20020" "20220727113153.275":
+  entity flags at 1( 0) + 0 on 3213;
+  architecture archflags of flags at 15( 264) + 0 on 3214;
+file . "ffjkTD.vhdl" "d4b412e6b4e0db48c84417e421e401565e2bf8dd" "20220727113153.274":
+  entity ffjk at 2( 70) + 0 on 3207;
+  architecture latch of ffjk at 14( 316) + 0 on 3208;
+  entity ffd at 72( 2349) + 0 on 3209;
+  architecture latch of ffd at 84( 2594) + 0 on 3210;
+  entity fft at 107( 3127) + 0 on 3211;
+  architecture latch of fft at 119( 3372) + 0 on 3212;
+file . "decode.vhdl" "777d5a92539a420b1f6ad9ac6991b6dd0ca9a2ba" "20220727113153.272":
+  entity decode at 1( 0) + 0 on 3205;
+  architecture archdecode of decode at 11( 189) + 0 on 3206;
+file . "contador.vhdl" "8d9d652209c7d308990d8bc5503d552920163ef6" "20220727113153.272":
+  entity cont at 1( 0) + 0 on 3203;
+  architecture contador of cont at 12( 169) + 0 on 3204;
+file . "as_ram.vhdl" "3f73ba77f28abe495e9836860db5e4964f04d021" "20220727113153.271":
+  entity as_ram at 2( 42) + 0 on 3201;
+  architecture behavior of as_ram at 16( 325) + 0 on 3202;
+file . "and.vhdl" "589e567559744c1573581a22f4a50cdcf4734765" "20220727113153.268":
+  entity eand at 1( 0) + 0 on 3199;
+  architecture archand of eand at 11( 176) + 0 on 3200;
+file . "add.vhdl" "8a11620fb475de6296b32ce95a1fe4d5cd8c3272" "20220727113153.267":
+  entity add at 1( 0) + 0 on 3197;
+  architecture archadd of add at 11( 175) + 0 on 3198;
+file . "jnz.vhdl" "61d3d12d054e8720da2e257ea6d65a292b5f064f" "20220727113153.278":
+  entity jnz at 1( 0) + 0 on 3223;
+  architecture archjnz of jnz at 12( 199) + 0 on 3224;
